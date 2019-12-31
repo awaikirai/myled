@@ -1,7 +1,7 @@
 # myled
 # 2019年：ロボットシステム学課題１
 ## 目的
-ubuntuイメージのRaspberry Pi 3 Model B で２つのLEDの操作を行う
+ubuntuのRaspberry Pi 3 Model B で２つのLEDの操作を行う
 ## プログラムの内容
 0. 両方のLEDの消灯
 1. 片方のLEDの点灯
